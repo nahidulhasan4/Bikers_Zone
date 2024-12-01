@@ -1,0 +1,18 @@
+.nav-item{
+    margin-right: 5px;
+}
+.Prev1{
+    background-color: rgb(234, 71, 71);
+}
+.back1{
+    background-color: rgb(234, 71, 71);
+    
+}
+.fa-solid{
+    color: yellow;
+}
+.iteam{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
